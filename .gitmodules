@@ -1,0 +1,9 @@
+[submodule "ukl"]
+	path = ukl
+	url = git@github.com:Elestrias/ukl.git
+[submodule "nanos"]
+	path = nanos
+	url = https://github.com/Elestrias/nanos
+[submodule "unikraft"]
+	path = unikraft
+	url = git@github.com:Elestrias/unikraft.git
