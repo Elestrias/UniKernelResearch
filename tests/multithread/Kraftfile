@@ -1,0 +1,9 @@
+spec: v0.6
+
+name: main-program
+
+runtime: base:latest
+
+rootfs: ./Dockerfile
+
+cmd: ["/main"]
